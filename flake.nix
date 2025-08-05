@@ -194,6 +194,7 @@
         uBootRadxaCM3IO = (uBoot system).uBootRadxaCM3IO;
         uBootRadxaRock4 = (uBoot system).uBootRadxaRock4;
         uBootRadxaRock4SE = (uBoot system).uBootRadxaRock4SE;
+        uBootRadxaZero3E = (uBoot system).uBootRadxaZero3E;
 
         bes2600 = (bes2600Firmware system);
       };
