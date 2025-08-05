@@ -9,7 +9,7 @@ let
         owner = "u-boot";
         repo = "u-boot";
         rev = "v2025.07";
-        sha256 = "";
+        sha256 = "X+JhVkDudkvQo08hGwAChOeMZZR+iunT9aU6tSAuMmg=";
       };
       version = "v2025.07-0-ge37de002fac"; # git describe --long
     in buildUBoot {
