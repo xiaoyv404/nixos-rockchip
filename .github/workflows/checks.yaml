@@ -42,6 +42,7 @@ jobs:
         - uBootRadxaCM3IO
         - uBootRadxaRock4
         - uBootRadxaRock4SE
+        - uBootRadxaZero3E
     runs-on: ubuntu-24.04
     steps:
     - name: Free disk space

@@ -130,6 +130,11 @@
           kernel = (kernel system).linux_6_12_rockchip;
           extraModules = [ noZFS ];
         };
+        "RadxaZero3E" = {
+          uBoot = (uBoot system).uBootRadxaZero3E;
+          kernel = (kernel system).linux_6_12_rockchip;
+          extraModules = [ noZFS ];
+        };
       };
 
       osConfigs = system:
